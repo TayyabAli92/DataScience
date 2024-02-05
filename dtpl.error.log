@@ -1,4 +1,4 @@
-Error: EBUSY: resource busy or locked, open 'c:\Users\Welcome\Desktop\DataScience\02_plotly_plot\covid-data.csv'
+Error: EBUSY: resource busy or locked, open 'c:\Users\Welcome\Desktop\DataScience\01_pandas_tips_tricks\outputs\03_ydata_pak_population.html'
     at Object.openSync (node:fs:605:3)
     at Object.func [as openSync] (node:electron/js2c/asar_bundle:2:2131)
     at Object.readFileSync (node:fs:473:35)
