@@ -1,0 +1,24 @@
+<mxfile host="65bd71144e">
+    <diagram id="e_DK_2Z1hzfASPia40z9" name="Page-1">
+        <mxGraphModel dx="348" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.54;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Create conda/mamba environment streamlit_env &lt;br&gt;conda create -n streamlit_env&lt;br&gt;conda activate streamlit_env" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="110" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="App to learn the function of streamlit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="10" width="255" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;h3&gt;Installation&lt;/h3&gt;Conda install python -y&lt;br&gt;pip install streamlit&lt;br&gt;pip install pandas numpy matplotlib seaborn plotly scipy scikit-learn &lt;br&gt;openpyxl" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="260" width="260" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
